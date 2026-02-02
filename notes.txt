@@ -1,1 +1,1 @@
-Git changes.
+Git uses snapshots
